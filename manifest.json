@@ -1,0 +1,9 @@
+{
+  "id": "folder-size-controller",
+  "name": "Folder Size Controller",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Controla manualmente o tamanho dos nós de pastas e notas no Graph View.",
+  "author": "Newz",
+  "isDesktopOnly": true
+}
